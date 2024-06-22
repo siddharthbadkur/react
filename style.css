@@ -1,0 +1,11 @@
+ .ul{
+background-color: brown;
+ margin: auto;
+ display: flex;
+ justify-content: center;
+ justify-content: space-evenly;
+ flex-direction: row;
+ list-style: none;
+ text-decoration: none;
+ 
+}
